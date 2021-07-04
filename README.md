@@ -16,3 +16,4 @@ Canonical / permanent URL:
 Issues: __https://github.com/novillof/devdays-covid19-vaccine/issues__
 Kanban board: __https://github.com/novillof/devdays-covid19-vaccine/projects/1__
 
+---
