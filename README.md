@@ -7,6 +7,7 @@ This is an example Implementation Guide for presenting some features at DevDays 
 This ImplementationGuide is published in the following locations:
 
 Continuous Build: __http://build.fhir.org/ig/novillof/devdays-covid19-vaccine/branches/main/index.html__
+
 Canonical / permanent URL:
 <br></br>
 
@@ -14,6 +15,7 @@ Canonical / permanent URL:
 ### Issues and change requests are managed here:
 
 Issues: __https://github.com/novillof/devdays-covid19-vaccine/issues__
+
 Kanban board: __https://github.com/novillof/devdays-covid19-vaccine/projects/1__
 
 ---
